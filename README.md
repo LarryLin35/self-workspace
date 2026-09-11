@@ -1,4 +1,4 @@
-# Self-Workspace
+# self-workspace
 
 ## 在另一台機器設定 Git
 
@@ -7,14 +7,14 @@
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/LarryLin35/Self-Workspace.git
-cd Self-Workspace
+git clone https://github.com/LarryLin35/self-workspace.git
+cd self-workspace
 ```
 
 如果已經 clone 過舊名稱的 repository，只需要更新 remote URL：
 
 ```bash
-git remote set-url origin https://github.com/LarryLin35/Self-Workspace.git
+git remote set-url origin https://github.com/LarryLin35/self-workspace.git
 ```
 
 ### 2. 設定此 repository 專用的提交身分
@@ -56,4 +56,4 @@ git remote -v
 - Email：`good.cool112233@gmail.com`
 - Credential helper：空白
 - Commit GPG signing：`false`
-- Remote：`https://github.com/LarryLin35/Self-Workspace.git`
+- Remote：`https://github.com/LarryLin35/self-workspace.git`
